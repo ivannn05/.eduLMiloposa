@@ -1,0 +1,29 @@
+Realiza una página web con las siguientes características,
+use la imagen 1 y el vídeo como referencias.
+
+En el vídeo se puede apreciar como son las páginas y su interacción con el ratón. 
+
+En la imagen medidas1 poseen las medidas que se desea que tenga la página 1.
+
+Se dará 0.5 puntos extra para todo aquel que sea capaz de regular el tamaño del cuadro del menú de navegación dependiendo de si está abierto o cerrado.
+
+
+
+RECUERDA QUE AL PULSAR CV SE DEBE ABRIR LA PÁGINA EN OTRA PESTAÑA.
+
+En la segunda página con una base igual a la anterior se pide crear un pequeño portfolio, en el vídeo puedes ver el diseño general y en la imagen Medidas2 sus medidas. A continuación, se recogen los puntos clave:
+
+1. Imagen del usuario que crece al pasar el ratón por encima, pierde el redondeo y aparece un borde rojo en 3seg, 2seg y 1seg respectivamente. El último posee un delay de 2 seg.
+2. Nombre de la persona que crece, cambia de color y aparece un subrayado en 3s, 1s y 1s respectivamente.
+3. Botón de descarga que descarga el archivo nav.png bajo el nombre “SIGLAS_dwn”
+
+
+
+Se pide configurar los metaelementos para que la página posea la siguiente descripción: “Demostración de mi nivel haciendo diferentes páginas web.” y como autor aparezca el centro seguido de vuestras siglas, por ejemplo: “Altair-DMJ”.
+
+
+Toda imagen debe estar dentro de una carpeta denominada "Multimedia"
+
+Tenga en cuenta que una vez completo debe de moverse a
+una carpeta llamada Realiza_SIGLAS todos los archivos
+que se hayan utilizado en la actividad. 

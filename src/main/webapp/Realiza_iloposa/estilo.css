@@ -1,0 +1,45 @@
+@charset "UTF-8";
+
+h1 {
+	text-align: center;
+	color: plum;
+	background-color: greenyellow;
+	font-size: 3rem;
+}
+
+.imagenes {
+	transform: translate(10px, -950px);
+}
+
+.imagenes1 {
+	transform: translate(1050px, -950px);
+}
+
+.boton1 {
+	transform: translate(200px, -360px);
+	background-color: black;
+	border-color: red;
+}
+
+.boton2 {
+	transform: translate(900px, -410px);
+	background-color: black;
+	border-color: red;
+}
+
+.texto {
+	background-color: lightgoldenrodyellow;
+	text-align: center;
+}
+
+.cosa {
+	text-align: center;
+}
+
+.venta {
+	text-align: center;
+}
+
+.imagenesjamon {
+	transform: translate(-50px, -0px);
+}
